@@ -1,5 +1,8 @@
 # ASCII DOOM
 
+<img width="2326" height="1433" alt="image (156)" src="https://github.com/user-attachments/assets/4e8f0e26-bff3-41f2-89ad-d8f81b135c9e" />
+
+
 A browser DOOM engine that renders the game as ASCII art and loads the **original DOOM WAD files**.
 
 - Real BSP software renderer (walls, floors, ceilings, sky, sprites, light diminishing) drawn into a glyph grid.
