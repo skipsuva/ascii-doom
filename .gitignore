@@ -1,0 +1,5 @@
+node_modules
+dist
+public/wads/*.wad
+shots/
+.DS_Store

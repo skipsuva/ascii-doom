@@ -1,0 +1,5 @@
+html, body { margin: 0; padding: 0; background: #000; color: #ccc; height: 100%; overflow: hidden; font-family: Menlo, Consolas, "DejaVu Sans Mono", monospace; }
+#screen { display: block; width: 100vw; height: 100vh; image-rendering: pixelated; cursor: none; }
+#drop { position: fixed; inset: 0; display: flex; align-items: center; justify-content: center; font-size: 4vw; color: #fff; background: rgba(0,0,0,0.75); pointer-events: none; letter-spacing: 0.3em; }
+#boot { position: fixed; left: 1em; top: 1em; color: #888; font-size: 14px; white-space: pre; pointer-events: none; }
+.hidden { display: none !important; }
